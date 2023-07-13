@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FenixSoft-GitHub/ReactAppTodos/static/css/main.e205b303.css",
+    "main.js": "/FenixSoft-GitHub/ReactAppTodos/static/js/main.14963b9d.js",
+    "index.html": "/FenixSoft-GitHub/ReactAppTodos/index.html",
+    "main.e205b303.css.map": "/FenixSoft-GitHub/ReactAppTodos/static/css/main.e205b303.css.map",
+    "main.14963b9d.js.map": "/FenixSoft-GitHub/ReactAppTodos/static/js/main.14963b9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e205b303.css",
+    "static/js/main.14963b9d.js"
+  ]
+}
