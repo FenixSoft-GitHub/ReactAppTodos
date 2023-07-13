@@ -53,13 +53,9 @@ textarea:focus {
 .TodoForm-button {
     cursor: pointer;
     position: relative;
-    /* bottom: 34px;
-    right: 34px; */
-
-
     display: inline-block;
     transition: all 0.2s ease-in;
-    /* position: relative; */
+    
     overflow: hidden;
     z-index: 1;
     color: #090909;

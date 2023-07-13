@@ -22,10 +22,7 @@
 
 .search-container .search-icon {
     position:absolute;
-    
     width: 1.5rem;
-    /* height: 1.5rem; */
-    /* position: absolute; */
     height: 100%;
     left: 12%; 
     top: 0;
