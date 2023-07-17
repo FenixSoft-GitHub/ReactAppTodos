@@ -1,12 +1,12 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Repositorio base de la App TODOS desarrollada a partir del Curso de Introducción a React.js en Platzi
 
-¡Hola, Platzinauta!
+¡Hola, a todos los interesados en mi repositorio!
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+En este repositorio encontrarás el código de toda la aplicación. Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+La rama principal (main) contiene el código de la aplicación. En la rama gh-pages encontrarás el deploy de la aplicación. El link de la aplicación (https://fenixsoft-github.github.io/ReactAppTodos/)
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+¡Muchas gracias por tomarse un tiempo en revisar mis proyectos. 
 
 ## Getting Started with Create React App
 
