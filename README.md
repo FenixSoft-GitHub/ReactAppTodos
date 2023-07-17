@@ -2,9 +2,39 @@
 
 ¡Hola, a todos los interesados en mi repositorio!
 
-En este repositorio encontrarás el código de toda la aplicación. Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+# Lista de tareas React
 
-La rama principal (main) contiene el código de la aplicación. En la rama gh-pages encontrarás el deploy de la aplicación. El link de la aplicación (https://fenixsoft-github.github.io/ReactAppTodos/)
+Esta es una aplicación de React simple que te permite crear y administrar una lista de tareas.
+
+## Características
+
+* Puedes crear, eliminar tareas.
+* Puedes marcar tareas como completadas.
+* Puedes filtrar tareas por estado.
+
+La aplicación se abrirá en tu navegador en la dirección http://localhost:3000.
+
+Contribuciones
+
+¡Bienvenido a contribuir a esta aplicación! Si encuentras algún error o tienes alguna sugerencia, por favor abre un issue en GitHub.
+
+Espero que esto te ayude.
+
+En este repositorio encontrarás el código de toda la aplicación. Para empezar solo debes clonar este repositorio (`git clone`)
+
+## Instalación
+
+Para instalar la aplicación, abre una terminal y ejecuta el siguiente comando:
+
+npm install
+
+Una vez que la aplicación esté instalada, puedes ejecutarla ejecutando el siguiente comando:
+
+npm start
+
+La rama principal (main) contiene el código de la aplicación. En la rama gh-pages encontrarás el deploy de la aplicación. 
+
+La aplicación se abrirá en tu navegador en la dirección: https://fenixsoft-github.github.io/ReactAppTodos/
 
 ¡Muchas gracias por tomarse un tiempo en revisar mis proyectos. 
 
